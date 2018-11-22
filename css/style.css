@@ -57,7 +57,7 @@ table {
 }
 
 body, #wrapper {
-  max-width: 1600px;
+  max-width: 100%;
   font-family: lato;
   margin: 0 auto;
 }
